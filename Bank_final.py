@@ -361,30 +361,3 @@ def main():
 
 main()
 
-
-# #main
-# bank1 = Bank(5000)
-# print(bank1)
-# bank1.payment(100)
-# # bank1.left_days()
-# # bank1.which_day()
-# # bank1.get_debet()
-# # bank1.which_day()
-# # bank1.left_days()
-# # bank1.loan(500)
-# # bank1.which_day()
-# # bank1.left_days()
-# # bank1.payment(-100)
-# # bank1.loan(10000)
-# # bank1.payment(500)
-# # bank1.paycheck = 6000
-# # print(bank1)
-# # bank1.which_day()
-# # bank1.left_days()
-# # bank1.payment(200)
-# # bank1.payment(5200)
-# # bank1.actual_balance()
-#
-# bank2 = ING(3000)
-# print(bank2)
-# print(bank1 + bank2)
