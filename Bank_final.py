@@ -5,8 +5,6 @@ import sys
 import time
 import os
 
-os.chdir('C:/Users/SKOWRON/PycharmProjects/RandomPasswordGenerator')
-
 class NorthBank:
     """I am creating a core for my banks"""
 
@@ -356,7 +354,7 @@ def main():
                 bank1.login_password()
 
         if choice == '10':
-            print("Your cumulated current balance is equal to:"  + str(bank1+bank2) + " dollars")
+            print("Your accumulated current balance is equal to:"  + str(bank1+bank2) + " dollars")
 
         if choice == "11":
            print(bank2)
